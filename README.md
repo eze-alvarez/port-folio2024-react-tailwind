@@ -1,5 +1,5 @@
 # Ezequiel Alvarez - Portfolio
-[![webSite.png](https://i.postimg.cc/TYB70p1Q/webSite.png)](https://postimg.cc/vcLtH8W6)
+[![webSite.png](https://i.postimg.cc/qv84QSsF/webSite.png)](https://postimg.cc/CRL3xv6C)
 
 ## ¡Bienvenidos!
 

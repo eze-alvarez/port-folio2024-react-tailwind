@@ -24,7 +24,7 @@ export default function Navbar() {
             </NavLink>
 
             <NavLink to="/education" activeClassName="text-yellow-400">
-              <li className="uppercase hover:scale-[1.1]">education</li>
+              <li className="uppercase hover:scale-[1.1]">educacion</li>
             </NavLink>
 
             <NavLink to="/projects" activeClassName="text-yellow-400">

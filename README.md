@@ -5,7 +5,7 @@
 
 Hola, soy Ezequiel Alvarez, un **Frontend Developer** apasionado por crear experiencias web excepcionales. En mi portafolio, encontrarás una colección de proyectos donde la creatividad y la innovación se unen para ofrecer soluciones impactantes.
 
-:computer: Para explorar mi portfolio, puedes hacer [click aquí](https://port-folio2023-react-eze-alvarez.vercel.app/)
+:computer: Para explorar mi portfolio, puedes hacer [click aquí](https://port-folio2024-react-tailwind.vercel.app/#/)
 
 ### Tecnologías Utilizadas
 
@@ -37,4 +37,4 @@ En este portafolio, podrás explorar una variedad de proyectos que muestran mis 
 - [Email](mailto:ezenigm@hotmail.com)
 
 
-:computer: Para explorar mi portfolio, puedes hacer [click aquí](https://port-folio2023-react-eze-alvarez.vercel.app/)
+:computer: Para explorar mi portfolio, puedes hacer [click aquí](https://port-folio2024-react-tailwind.vercel.app/#/)

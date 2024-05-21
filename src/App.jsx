@@ -9,10 +9,12 @@ import ProjectDisplay from './routes/ProjectDisplay'
 import FloatingIcons from './components/FloatingIcons'
 import Thanks from './routes/Thanks'
 import Error from './routes/Error'
+import ScrollToTop from './components/ScrollToTop'
 
 function App() {
   return (
     <>
+    <ScrollToTop />
     <Navbar />
     <Switch>
       <Route exact path='/'>

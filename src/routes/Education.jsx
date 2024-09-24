@@ -20,8 +20,8 @@ export default function Education() {
           ¡Bienvenido a mi sección de formación! Aquí encontrarás una recopilación de mis estudios y cursos, donde he adquirido conocimientos sólidos en Programación. <br /><br />Desde cursos en línea hasta certificaciones académicas, cada experiencia ha sido un paso hacia el crecimiento profesional
           </p>
           <a
-            href="/public/CV.EzequielAlvarez.FRONTEND.docx"
-            download="CV.EzequielAlvarez.FRONTEND.docx"
+            href="/public/CV.EzequielAlvarez.docx"
+            download="CV.EzequielAlvarez.docx"
             rel="noopener noreferrer"
             target="_blank"
             className="mt-4 tracking-wide bg-indigo-500 ml-auto hover:bg-yellow1 text-white hover:text-gray-900 rounded-lg shadow hover:shadow-lg py-2 px-4 border "

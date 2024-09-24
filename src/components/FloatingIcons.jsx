@@ -8,8 +8,8 @@ export default function FloatingIcons() {
         <div>
             <a
             title="Download C.V."
-            href='/CV.EzequielAlvarez.FRONTEND.docx'
-            download="CV.EzequielAlvarez.FRONTEND.docx"
+            href='/CV.EzequielAlvarez.docx'
+            download="CV.EzequielAlvarez.docx"
             rel="noopener noreferrer"
             target="_blank"
             className="block w-14 h-14 transition-all shadow hover:shadow-lg transform hover:scale-110 hover:rotate-12

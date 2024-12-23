@@ -9,7 +9,7 @@ export default function ProjectItem ({ id, name, imageH, description }) {
  
   return (
     <Link to={`${url}/${id}`}
-    className="h-[calc(18rem*1.618)] w-72 flex flex-col  rounded-[2rem] shadow-3xl hover:shadow-hov"
+    className="h-[calc(16rem*1.618)] w-72 flex flex-col  rounded-[2rem] shadow-3xl hover:shadow-hov"
       // onClick={() => {
       //   navigate('/project/' + id)
       // }}
@@ -29,7 +29,7 @@ export default function ProjectItem ({ id, name, imageH, description }) {
               <h2 className="block mb-4 text-xl font-black leading-tight ">
                 {name}
               </h2>
-              <p className="mb-4 text-sm text-cv-text ">
+              <p className="mb-4 text-sm text-cv-text line-clamp-4">
                 {description}
               </p>
              

@@ -2,8 +2,8 @@ export const EducationList = [
   {
     titulo: 'Técnico Superior en Programación',
     lugar: 'Teclab Instituto Técnico Superior',
-    fecha: '2022 - Actualidad (Aprobado 12 de 15 materias)',
-    texto: 'Título Intermedio de Auxiliar de Programación al completar la mitad de la tecnicatura'
+    fecha: '2022 -2024',
+    texto: 'Desarrollo de software para plataformas web utilizando HTML, CSS y JavaScript. Configuración e implementación de bases de datos con SQL, Oracle y PostgreSQL. Gestión de ciclos de vida del software mediante herramientas de gestión de proyectos. Dominio en diseño estructurado, lógica y algoritmos. Programación móvil con Java y Android Studio, incluyendo aplicaciones con Material Design y diseño responsivo.'
   },
   {
     titulo: 'JAVA-FRONT END',

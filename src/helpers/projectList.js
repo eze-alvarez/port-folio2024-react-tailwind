@@ -14,6 +14,8 @@ import javaMoviesV from '../assets/java movies vertical.png'
 import javaMoviesH from '../assets/java movies horizontal.png'
 import penihueH from '../assets/peñihue.png'
 import penihueV from '../assets/peñihue vertical.png'
+import serapioH from '../assets/serapioH.png'
+import serapioV from '../assets/serapioV.png'
 // import bookStore from '../assets/bookstore.png'
 
 const Projects = [
@@ -93,7 +95,7 @@ const Projects = [
     imageVer: penihueV,
     imageHor: penihueH,
     sumary: 'Sitio Web para Cabañas Peñihue, realizado con Next.js & Tailwind',
-    description: 'Proyecto intermedio, el frontend se maqueto usando Bootstrap y la parte interactiva se implementara cuando se aborde el contenido de JAVA',
+    description: 'Se desarrolló un sitio web para Cabañas Peñihue utilizando Next.js para la estructura del proyecto y Tailwind CSS para la maquetación, lo que permitió un diseño moderno y responsive. La gestión de mensajes y formularios de contacto se implementó a través de FormSpree, facilitando la interacción entre los usuarios y el equipo de Cabañas Peñihue. Este proyecto está enfocado en ofrecer una experiencia de usuario fluida.',
     skills: 'HTML ,CSS, Grid layout, Flexbox, Responsive Web Design, Tailwind, Next.js, React.js',
     url: 'https://cabanas-penihue.vercel.app/'
   },
@@ -105,6 +107,16 @@ const Projects = [
   //   skills: 'JavaScript ,HTML ,CSS, Grid layout, Flexbox, Responsive Web Design, Media Queries, CSS modules, React.js',
   //   url: 'https://book-store-eze-alvarez.vercel.app'
   // }
+  {
+    id: 9,
+    name: 'Polleria Serapio',
+    imageVer: serapioV,
+    imageHor: serapioH,
+    sumary: 'Sitio Web para Polleria Serapio, realizado con React.js & Tailwind',
+    description: 'Desarrollé el sitio web para Serapio, una pollería con más de 10 años de trayectoria, utilizando React.js para crear una interfaz interactiva y dinámica, y Tailwind CSS para implementar un diseño moderno y responsivo. Organicé la estructura del proyecto, optimicé la carga de contenido mediante el consumo de datos desde archivos JSON, y configuré componentes reutilizables que mejoraron la escalabilidad y mantenibilidad del código. Además, prioricé la experiencia del usuario con una navegación intuitiva y un diseño adaptado a dispositivos móviles.',
+    skills: 'HTML ,CSS, Grid layout, Flexbox, Responsive Web Design, Tailwind, React.js',
+    url: 'https://serapio-polleriaelaborados.com'
+  },
 ]
 
 export const ProjectList = [...Projects].reverse()

@@ -12,11 +12,11 @@ export default function Education() {
       <div className="container mx-auto flex flex-col items-start pb-12 px-4
        sm:px-16 lg:flex-row  ">
 
-        <div className="flex flex-col  w-full bg-cv-fondo p-4 px-8 rounded-md
-         lg:w-1/3  lg:sticky lg:top-[200px] ">
+        <div className="flex flex-col  w-full bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 bg-center p-4 px-8 rounded-md
+         lg:w-1/3  lg:sticky lg:top-[200px] shadow-3xl ">
           
           
-          <p className="italic tracking-wide text-sm md:text-base lg:text-lg text-black ">
+          <p className="italic tracking-wide text-sm md:text-base lg:text-lg text-white py-5 ">
           ¡Bienvenido a mi sección de formación! Aquí encontrarás una recopilación de mis estudios y cursos, donde he adquirido conocimientos sólidos en Programación. <br /><br />Desde cursos en línea hasta certificaciones académicas, cada experiencia ha sido un paso hacia el crecimiento profesional
           </p>
           <a
@@ -25,7 +25,7 @@ export default function Education() {
             download="C.V.Frontend-Ezequiel-Alvarez.pdf"
             rel="noopener noreferrer"
             target="_blank"
-            className="mt-4 tracking-wide bg-indigo-500 ml-auto hover:bg-yellow1 text-white hover:text-gray-900 rounded-lg shadow hover:shadow-lg py-2 px-4 border "
+            className="mt-4 tracking-wide bg-indigo-500 ml-auto hover:bg-yellow1 text-white hover:text-gray-900 rounded-lg shadow hover:shadow-lg py-2 px-4 mb-2  border"
           >
             Descargar C.V.
           </a>

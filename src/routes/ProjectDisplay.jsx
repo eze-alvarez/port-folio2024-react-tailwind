@@ -14,7 +14,7 @@ export default function ProjectDisplay() {
     <>
       {/* component */}
 
-      <div className="pt-20 sm:min-h-[calc(100vh-340px)] bg-gradient-to-r from-yellow2 to-yellow1 flex items-center p-5 lg:p-10 lg:pt-20 overflow-hidden relative xl:min-h-[calc(100vh-224px)] ">
+      <div className="pt-20 sm:min-h-[calc(100vh-340px)] bg-gradient-to-r from-yellow-400 to-yellow-500  flex items-center p-5 lg:p-10 lg:pt-20 overflow-hidden relative xl:min-h-[calc(100vh-224px)] ">
         <div className="w-full max-w-6xl rounded-md bg-white shadow-xl p-10  mx-auto text-gray-800 relative md:text-left lg:h-96 xl:h-[30rem] lg:flex lg:items-center 2xl:max-w-[1400px] 2xl:h-[35rem]">
           <div className="md:flex items-center -mx-10 ">
             <div className="h-[calc(10rem*1.618)] w-40 mb-10 mx-auto rounded-md flex justify-center items-center">

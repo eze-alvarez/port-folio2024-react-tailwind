@@ -6,7 +6,7 @@ import { MdOutlineMail } from "react-icons/md";
 
 export default function Footer() {
   return (
-    <footer className='bg-cv'>
+    <footer className='bg-gradient-to-r from-gray-300 via-gray-200 to-gray-300 bg-center'>
         <div className="p-8 flex flex-col sm:px-16
         sm:landscape:h-[calc(100vh-56px)]
         lg:landscape:h-56 
